@@ -3,3 +3,7 @@ Thumbs.db
 .DS_Store
 .vscode/
 .idea/
+
+# Local dev server
+server.js
+local-server.js
